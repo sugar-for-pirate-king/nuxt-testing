@@ -3,7 +3,7 @@
 My experiment app to write test code.
 
 What you will got: 
-- How to write componnent test.
+- How to write component test.
 - How to expecting content in your component.
 - How to expecting content must not include in your component (secret stuff)
 - How to stub component
