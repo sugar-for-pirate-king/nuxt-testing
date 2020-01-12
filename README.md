@@ -24,5 +24,8 @@ $ yarn start
 
 # generate static project
 $ yarn generate
+
+# test the project
+$ yarn test
 ```
 
