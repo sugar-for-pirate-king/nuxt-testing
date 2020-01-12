@@ -1,6 +1,13 @@
 # nuxt-testing
 
-> My mind-blowing Nuxt.js project
+My experiment app to write test code.
+
+What you will got: 
+- How to write componnent test.
+- How to expecting content in your component.
+- How to expecting content must not include in your component (secret stuff)
+- How to stub component
+- How to stub `axios` request. 
 
 ## Build Setup
 
@@ -19,4 +26,3 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
